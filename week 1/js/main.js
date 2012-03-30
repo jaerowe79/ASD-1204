@@ -3,9 +3,10 @@
 // Janis Jae Hines 
 // March 26, 2012
 
+
+
 var parseNewEventForm = function(data) {
 //uses form data here;
- console.log(data);
 };
 
 $(document).ready(function () {
